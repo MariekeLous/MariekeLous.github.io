@@ -1,0 +1,60 @@
+body {
+	background-color: #ddd;
+}
+
+.huge.divider {
+	height: 5em;
+}
+
+hr {
+	max-width: 20em;
+	background-color: #42f49e;
+	margin-top: 2px;
+	height: 2px;
+	border: none;
+}
+
+.fitted {
+	white-space:normal !important;
+	padding: 1em;
+}
+
+.highline {
+	line-height: 24px !important;
+}
+
+.bluegreen {
+	color:  #39b277 !important;
+}
+
+.ui.inverted.menu .active.item {
+	color: #42f49e !important;
+}
+
+.ui.inverted.menu .active.item:hover {
+	color: #42f49e !important;
+}
+
+.smalltext {
+	font-size: 11px !important;
+}
+
+.headerimage {
+	height: 350px;
+	background-image: url("headerphoto.jpg");
+	background-size: cover;
+	margin-top: 40px;
+	width: 100%;
+}	
+
+a {
+	color: #39b277 !important;
+}
+
+.black {
+	color: #000;
+}
+
+p {
+	line-height: 24px !important;
+}
