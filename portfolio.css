@@ -64,3 +64,10 @@ p {
 	color: #fff !important;
 	padding: 4px;
 }
+
+.largetext {
+	font-size: 3em !important;
+	letter-spacing: 15px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
