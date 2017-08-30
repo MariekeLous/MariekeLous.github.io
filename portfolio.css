@@ -70,4 +70,5 @@ p {
 	letter-spacing: 15px;
 	text-transform: uppercase;
 	font-weight: 300;
+	line-height: auto;
 }
