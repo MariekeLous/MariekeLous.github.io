@@ -71,10 +71,12 @@ p {
 	text-transform: uppercase;
 	font-weight: 300;
 	line-height: 1em !important;
+
 }
 
-@media only screen and (max-width: 767px;){
+@media only screen and (max-width: 767px){
 	.largetext {
 		font-size: 2em !important;
+		padding: 0 !important;
 	}
 }
